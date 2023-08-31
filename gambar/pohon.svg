@@ -1,0 +1,27 @@
+<?xml version="1.0"?><svg width="793.7007874015749" height="1122.5196850393702" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient614">
+   <stop stop-color="#ff3200" offset="0" id="stop615"/>
+   <stop stop-color="#ff5e00" offset="1" id="stop616"/>
+  </linearGradient>
+  <linearGradient y2="0" y1="0" xlink:href="#linearGradient614" x2="1" x1="0" id="linearGradient617"/>
+  <radialGradient xlink:href="#linearGradient614" id="radialGradient618"/>
+  <radialGradient xlink:href="#linearGradient614" id="radialGradient619"/>
+  <radialGradient xlink:href="#linearGradient614" id="radialGradient620"/>
+  <radialGradient xlink:href="#linearGradient614" id="radialGradient621"/>
+  <radialGradient xlink:href="#linearGradient614" id="radialGradient622"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g externalResourcesRequired="false" transform="matrix(1.39631 0 0 1.31739 -67.3223 -150.295)" id="g636">
+   <circle id="svg_7" r="127.376953" cy="343.696542" cx="199.553163" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="NaN" fill="#60ad13"/>
+   <circle id="svg_8" r="127.376953" cy="292.345158" cx="341.434322" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="NaN" fill="#60ad13"/>
+   <circle id="svg_9" r="127.376953" cy="357.210026" cx="449.542445" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="NaN" fill="#60ad13"/>
+   <circle id="svg_10" r="115.866287" cy="492.345173" cx="181.974854" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="NaN" fill="#60ad13"/>
+   <circle id="svg_11" r="127.376961" cy="508.56139" cx="363.055965" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="NaN" fill="#60ad13"/>
+   <circle id="svg_12" r="127.376938" cy="462.615442" cx="468.461355" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="NaN" fill="#60ad13"/>
+   <path id="path628" fill="#b85e00" fill-rule="evenodd" stroke="#000000" stroke-width="0" d="m296.477203,429.03772c13.148376,0.957672 26.296783,1.915375 39.445251,2.873047c2.528503,47.884583 3.539886,64.165314 12.136963,83.319214c15.171326,-17.238556 24.274017,-34.477051 27.308289,-60.334656c0,0 59.167969,-17.238464 37.928101,0c-13.654053,66.08075 -45.513672,74.700134 -50.065063,129.288513c-5.562805,64.165283 9.379425,131.52179 12.919403,192.814026c-28.319672,-0.957825 -61.238373,0.95752 -89.558014,0c15.676971,-108.219238 29.10202,-136.310303 35.67627,-215.798645c-1.011444,-61.292206 -18.711334,-79.488464 -25.791199,-132.161499z"/>
+   <rect transform="rotate(59.934 285.59 533.212)" id="svg_14" height="32.432434" width="171.371355" y="516.995981" x="199.903812" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#b85e00"/>
+  </g>
+ </g>
+</svg>
